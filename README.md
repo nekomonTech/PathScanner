@@ -18,7 +18,7 @@ Tools Ini dirancang agar memudahkan anda untuk menemukan directory pada url webs
 npm install
 ```
 ## Run Script
-```Javascript
+```bash
 node path-scanner.js -u https://your.url.com/ -w wordlist.txt
 ```
 ## (Opsional)
