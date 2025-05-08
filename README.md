@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://yourdomain.com/logo.jpg" alt="PathScanner Logo" width="600"/>
+</p>
+
 # PathScanner
 🇮🇩:
 Tools Ini dirancang agar memudahkan anda untuk menemukan directory pada url website.
