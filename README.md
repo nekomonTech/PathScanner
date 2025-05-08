@@ -1,2 +1,6 @@
 # PathScanner
-Javascript / NodeJS
+## Fiture
+- scan directory url
+- free
+- simple
+
