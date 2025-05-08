@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourdomain.com/logo.jpg" alt="PathScanner Logo" width="600"/>
+  <img src="https://pomf2.lain.la/f/j9ypza.jpeg" alt="PathScanner Logo" width="600"/>
 </p>
 
 # PathScanner
