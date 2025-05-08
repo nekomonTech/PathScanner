@@ -17,5 +17,9 @@ Tools Ini dirancang agar memudahkan anda untuk menemukan directory pada url webs
 ```bash
 npm install
 ```
+## (Opsional)
 ```bash
+chmod +x hello.sh
+```
+
 
