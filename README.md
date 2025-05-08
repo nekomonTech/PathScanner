@@ -13,10 +13,11 @@ Tools Ini dirancang agar memudahkan anda untuk menemukan directory pada url webs
 - free
 - simple
 
-## How To Use?
+## Install Dependencies
 ```bash
 npm install
 ```
+## Run Script
 ```Javascript
 node path-scanner.js -u https://your.url.com/ -w wordlist.txt
 ```
